@@ -1,0 +1,3 @@
+([('main',
+   '/Users/chaselally/Documents/VisualCode Projects/TekWrouter/dist/main',
+   'EXECUTABLE')],)
